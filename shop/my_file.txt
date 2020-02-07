@@ -1,0 +1,6 @@
+item name is iphone and price is 1000$
+item name is toyota and price is 20000$
+item name is yaris and price is 10000$
+item name is dell and price is 400$
+item name is bmw and price is 12$
+item name is null and price is 1$
